@@ -23,7 +23,7 @@ Write a Node.js script that takes a name as a command-line argument and prints `
 Your project folder should look like this:
 
 ```bash
-problem-5-command-line-arguments/
+05-command-line-argument-node-problem/
 ├── script.js         # The script to greet users via the command line
 ├── README.md        # Documentation for this problem
 └── package.json     # Project configuration file
